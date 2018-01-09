@@ -1,5 +1,5 @@
-var request = require('request');
-var cheerio = require('cheerio');
+var request = require('request'),
+    cheerio = require('cheerio');
 
 class LinkPreview {
 
