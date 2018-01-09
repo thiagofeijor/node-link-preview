@@ -1,6 +1,6 @@
 <h1 align="center">LinkPreview</h1>
 
-<h5 align="center">Library to return title, description and highlighted image of a site to generate a link preview preview.</h5>
+<h5 align="center">Library to return title, description and highlighted image of a site to generate a link preview.</h5>
 
 ```js
 const LinkPreview = require('link-preview')
