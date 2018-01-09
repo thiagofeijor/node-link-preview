@@ -11,3 +11,7 @@ LinkPreview.search('www.google.com', (data) => {
   console.log('Error');
 });
 ```
+
+
+## Installation
+`npm install node-link-preview`
