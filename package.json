@@ -1,6 +1,6 @@
 {
   "name": "node-link-preview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library to return title, description and highlighted image of a site to generate a link preview preview",
   "author": "Thiago Feijor <thiago@feijor.com.br> (feijor.com.br)",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "node": ">= 0.6"
   },
   "dependencies": {
-    "cheerio": "~0.22.0",
-    "request": "~2.83.1"
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
   }
 }
