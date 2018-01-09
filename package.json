@@ -1,5 +1,5 @@
 {
-  "name": "ServerLinkPreview",
+  "name": "node-link-preview",
   "version": "0.0.1",
   "description": "Library to return title, description and highlighted image of a site to generate a link preview preview",
   "author": "Thiago Feijor <thiago@feijor.com.br> (feijor.com.br)",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Feijor/NodeLinkPreview.git"
+    "url": "git://github.com/Feijor/node-link-preview.git"
   },
   "main": "./index.js",
   "files": [
